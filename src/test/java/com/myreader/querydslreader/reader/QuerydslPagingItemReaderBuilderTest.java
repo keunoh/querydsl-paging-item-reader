@@ -3,7 +3,6 @@ package com.myreader.querydslreader.reader;
 import com.myreader.querydslreader.QuerydslPagingItemReader;
 import com.myreader.querydslreader.QuerydslPagingItemReaderBuilder;
 import com.myreader.querydslreader.setting.entity.Manufacture;
-import com.myreader.querydslreader.setting.entity.QManufacture;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.batch.item.ExecutionContext;
