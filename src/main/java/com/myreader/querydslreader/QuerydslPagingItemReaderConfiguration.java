@@ -1,12 +1,8 @@
 package com.myreader.querydslreader;
 
-import com.myreader.querydslreader.QuerydslPagingItemReader;
-import com.myreader.querydslreader.QuerydslPagingItemReaderBuilder;
 import com.myreader.querydslreader.setting.entity.Manufacture;
 import com.myreader.querydslreader.setting.entity.ManufactureBackup;
-import com.myreader.querydslreader.setting.entity.QManufacture;
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
